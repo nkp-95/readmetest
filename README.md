@@ -43,14 +43,12 @@
 - **설명**: Spring Boot와 MariaDB를 활용한 커뮤니티 시스템
 - **주요 기능**: 커뮤니티,  문의 관리
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/community) 
-- **프로젝트 링크**: [백엔드 프로젝트] (https://github.com/nkp-95/144-3FinalProject/tree/main/question)
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/community, https://github.com/nkp-95/144-3FinalProject/tree/main/question)
 
 - **설명**: Spring Boot와 MariaDB를 활용한 경기 일정, 및 선수 데이터 시스템 
 - **주요 기능**: 경기 기록, 경기 일정 관리
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트] : (https://github.com/nkp-95/144-3FinalProject/tree/main/records) 
-- **프로젝트 링크**: [백엔드 프로젝트] : (https://github.com/nkp-95/144-3FinalProject/tree/main/scheduleresults)
+- **프로젝트 링크**: [백엔드 프로젝트] : (https://github.com/nkp-95/144-3FinalProject/tree/main/records, (https://github.com/nkp-95/144-3FinalProject/tree/main/scheduleresults)
 
 - **설명**: Spring Boot와 MariaDB를 활용한 데이터 자동 수집 시스템 
 - **주요 기능**: KBO 사이트 경기 일정, 기록 및 선수 기록 수집
