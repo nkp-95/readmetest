@@ -7,25 +7,13 @@
 
 ## 🔧 사용 기술
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  ![MyBatis](https://img.shields.io/badge/MyBatis-B7178C?style=flat-square&logo=MyBatis&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
+ 
+![JSP](https://img.shields.io/badge/JSP-323330?style=flat-square&logo=java&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
-![JSP](https://img.shields.io/badge/JSP-323330?style=flat-square&logo=java&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=flat-square&logo=windows&logoColor=white)  
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)  
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
-![MyBatis](https://img.shields.io/badge/MyBatis-B7178C?style=flat-square&logo=MyBatis&logoColor=white)  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=flat-square&logo=windows&logoColor=white)  ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)  ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
@@ -47,10 +35,26 @@
 
 ### 📌 백엔드 프로젝트 (Java)
 - **설명**: Spring Boot와 MariaDB를 활용한 회원 관리 시스템  
-- **주요 기능**: 회원 가입, 로그인, JWT 인증, 정지 상태 관리  
+- **주요 기능**: 회원 가입, 로그인, 소셜로그인, JWT 인증, 정지 상태 관리  
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/username/backend-project)  
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/login_signup_back)(https://github.com/nkp-95/144-3FinalProject/tree/main/membershipmanagement)  
 
+- **설명**: Spring Boot와 MariaDB를 활용한 커뮤니티 시스템
+- **주요 기능**: 커뮤니티,  문의 관리
+- **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/community)  (https://github.com/nkp-95/144-3FinalProject/tree/main/question)
+
+- **설명**: Spring Boot와 MariaDB를 활용한 경기 일정, 및 선수 데이터 시스템 
+- **주요 기능**: 경기 기록, 경기 일정 관리
+- **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/records)  (https://github.com/nkp-95/144-3FinalProject/tree/main/scheduleresults)
+
+- **설명**: Spring Boot와 MariaDB를 활용한 데이터 자동 수집 시스템 
+- **주요 기능**: KBO 사이트 경기 일정, 기록 및 선수 기록 수집
+- **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/crawling)
+
+#### 📌 백엔드 프로젝트 통합본: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject)  
 ---
 
 ### 📌 데이터 분석 및 수집 (Python)
@@ -63,14 +67,14 @@
 
 ### 📌 프론트엔드 회원 관리 시스템
 - **설명**: React 기반의 사용자 인터페이스 구현  
-- **기능**: 회원 가입 및 로그인 페이지 구성  
+- **기능**: 회원 가입 및 로그인 페이지 구성, 관리자 페이지
 - **기술 스택**: React, HTML, CSS  
 - **프로젝트 링크**: [프론트 회원 관리](https://github.com/username/frontend-members)  
 
 ---
 
 ### 📌 프론트엔드 커뮤니케이션 기능
-- **설명**: 실시간 메시지 송수신 기능 구현  
+- **설명**: 자유게시판, 회원 문의 게시판
 - **기술 스택**: React, Flask, WebSocket  
 - **프로젝트 링크**: [프론트 커뮤니케이션](https://github.com/username/frontend-communication)  
 
@@ -90,7 +94,7 @@
 ---
 
 ## 📞 연락처 및 협업 플랫폼
-- **이메일**: example@example.com  
+- **이메일**: nkp95@naver.com
 - **GitHub**: [https://github.com/username](https://github.com/username)  
-- **Notion 페이지**: [프로젝트 정리](https://notion.so/project-summary)  
-- **Figma 디자인**: [디자인 프로토타입](https://figma.com/project-design)  
+- **Notion 페이지**: [프로젝트 정리](https://www.notion.so/c9b0adb854064bdb89faa1d520113f0a)  
+- **Figma 디자인**: [디자인 프로토타입](https://www.figma.com/design/HNDReC7Dek9mkngZtULFRP/144%EA%B8%B0-Kosmo-Baseball?node-id=0-1&node-type=canvas&t=s7UCgVIbSq8xfWKT-0)  
