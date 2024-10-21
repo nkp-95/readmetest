@@ -37,8 +37,8 @@
 - **설명**: Spring Boot와 MariaDB를 활용한 회원 관리 시스템  
 - **주요 기능**: 회원 가입, 로그인, 소셜로그인, JWT 인증, 정지 상태 관리  
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/login_signup_back)
-- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/membershipmanagement)  
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/login_signup_back, https://github.com/nkp-95/144-3FinalProject/tree/main/membershipmanagement)
+
 
 - **설명**: Spring Boot와 MariaDB를 활용한 커뮤니티 시스템
 - **주요 기능**: 커뮤니티,  문의 관리
