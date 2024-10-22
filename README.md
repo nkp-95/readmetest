@@ -83,21 +83,21 @@
 - **설명**: React 기반의 사용자 인터페이스 구현  
 - **기능**: 회원 가입 및 로그인 페이지 구성, 관리자 페이지
 - **기술 스택**: React, HTML, CSS  
-- **프로젝트 링크**: [프론트 회원 관리](https://github.com/username/frontend-members)  
+- **프로젝트 링크**: [프론트 회원 관리](https://github.com/nkp-95/144-3_FinalProject_frontend_auth, https://github.com/nkp-95/144-3_FinalProject_frontend_admin)  
 
 ---
 
 ### 📌 프론트엔드 커뮤니케이션 기능
 - **설명**: 자유게시판, 회원 문의 게시판
 - **기술 스택**: React, Flask, WebSocket  
-- **프로젝트 링크**: [프론트 커뮤니케이션](https://github.com/username/frontend-communication)  
+- **프로젝트 링크**: [프론트 커뮤니케이션](https://github.com/nkp-95/144-3_FinalProject_frontend_community, https://github.com/nkp-95/144-3_FinalProject_frontend_inquiry)  
 
 ---
 
-### 📌 프론트엔드 데이터 시각화
-- **설명**: Plotly를 활용한 데이터 분석 결과 시각화  
-- **기술 스택**: React, Plotly  
-- **프로젝트 링크**: [프론트 데이터 시각화](https://github.com/username/frontend-data-visualization)  
+### 📌 프론트엔드 데이터 시각화 경기 일정 및 기록
+- **설명**: React 기반의 수집 데이터 출력 
+- **기술 스택**: React, Plotly, HTML, CSS
+- **프로젝트 링크**: [프론트 기록실](https://github.com/nkp-95/144-3_FinalProject_frontend_record, https://github.com/nkp-95/144-3_FinalProject_frontend_schedule-scoreboard, https://github.com/nkp-95/144-3_FinalProject_frontend_reply)  
 
 ---
 
