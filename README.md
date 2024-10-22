@@ -36,7 +36,7 @@
 ## 💼 프로젝트 링크 및 설명
 
 ### 📌 백엔드 프로젝트 (![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black))
-###회원 관리 시스템
+### 회원 관리 시스템
 - **설명**: Spring Boot와 MariaDB를 활용한 회원 관리 시스템  
 - **주요 기능**: 회원 가입, 로그인, 소셜로그인, JWT 인증, 정지 상태 관리  
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
