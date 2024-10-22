@@ -35,23 +35,26 @@
 
 ## 💼 프로젝트 링크 및 설명
 
-### 📌 백엔드 프로젝트 (Java)
+### 📌 백엔드 프로젝트 (![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black))
+####회원 관리 시스템
 - **설명**: Spring Boot와 MariaDB를 활용한 회원 관리 시스템  
 - **주요 기능**: 회원 가입, 로그인, 소셜로그인, JWT 인증, 정지 상태 관리  
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
 - **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/login_signup_back, https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/membershipmanagement)
 
-
+####커뮤니티 시스템
 - **설명**: Spring Boot와 MariaDB를 활용한 커뮤니티 시스템
 - **주요 기능**: 커뮤니티,  문의 관리
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
 - **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/community, https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/question)
 
+####기록 및 일정 시스템
 - **설명**: Spring Boot와 MariaDB를 활용한 경기 일정, 및 선수 데이터 시스템 
 - **주요 기능**: 경기 기록, 경기 일정 관리
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
 - **프로젝트 링크**: [백엔드 프로젝트] : (https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/records, https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/scheduleresults)
 
+####크롤링 시스템
 - **설명**: Spring Boot와 MariaDB를 활용한 데이터 자동 수집 시스템 
 - **주요 기능**: KBO 사이트 경기 일정, 기록 및 선수 기록 수집
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
