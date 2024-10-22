@@ -37,32 +37,40 @@
 - **설명**: Spring Boot와 MariaDB를 활용한 회원 관리 시스템  
 - **주요 기능**: 회원 가입, 로그인, 소셜로그인, JWT 인증, 정지 상태 관리  
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/login_signup_back, https://github.com/nkp-95/144-3FinalProject/tree/main/membershipmanagement)
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/login_signup_back, https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/membershipmanagement)
 
 
 - **설명**: Spring Boot와 MariaDB를 활용한 커뮤니티 시스템
 - **주요 기능**: 커뮤니티,  문의 관리
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/community, https://github.com/nkp-95/144-3FinalProject/tree/main/question)
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/community, https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/question)
 
 - **설명**: Spring Boot와 MariaDB를 활용한 경기 일정, 및 선수 데이터 시스템 
 - **주요 기능**: 경기 기록, 경기 일정 관리
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트] : (https://github.com/nkp-95/144-3FinalProject/tree/main/records, (https://github.com/nkp-95/144-3FinalProject/tree/main/scheduleresults)
+- **프로젝트 링크**: [백엔드 프로젝트] : (https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/records, https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/scheduleresults)
 
 - **설명**: Spring Boot와 MariaDB를 활용한 데이터 자동 수집 시스템 
 - **주요 기능**: KBO 사이트 경기 일정, 기록 및 선수 기록 수집
 - **기술 스택**: Java, Spring Boot, MyBatis, MariaDB  
-- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject/tree/main/crawling)
+- **프로젝트 링크**: [백엔드 프로젝트](https://github.com/nkp-95/144-3_FinalProject_Yamodat/tree/main/crawling)
 
-#### 📌 백엔드 프로젝트 통합본: [백엔드 프로젝트](https://github.com/nkp-95/144-3FinalProject)  
+#### 📌 백엔드 프로젝트 통합본: [백엔드 프로젝트](https://github.com/nkp-95/144-3_FinalProject_Yamodat)  
+---
+
+### 📌 데이터 저장 및 정리 (Mybastis)
+- **설명**: 데이터 베이스
+- **주요 기능**: 데이터 저장 
+- **기술 스택**: MyBatis, sql  
+- **프로젝트 링크**: [데이터 분석 프로젝트](https://github.com/BTBIIT/Yamodot/tree/main/Yamodot_DB)  
+
 ---
 
 ### 📌 데이터 분석 및 수집 (Python)
 - **설명**: 웹 스크래핑과 머신러닝을 통한 데이터 분석  
 - **주요 기능**: 데이터 수집, 머신러닝 모델 개발, 시각화  
 - **기술 스택**: Python, Flask, Scikit-learn, Plotly  
-- **프로젝트 링크**: [데이터 분석 프로젝트](https://github.com/username/data-analysis)  
+- **프로젝트 링크**: [데이터 분석 프로젝트](https://github.com/BTBIIT/Yamodot/tree/main/Yamodot_DA)  
 
 ---
 
